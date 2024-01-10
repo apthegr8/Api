@@ -23,7 +23,5 @@ This is a basic Content Management System (CMS) implemented in PHP and MySQL. It
 - Click "Edit" on a post to modify its content.
 - Click "Delete" on a post to remove it.
 
-## Contributing
 
-Contributions are welcome! Please open an issue to discuss potential changes or submit a pull request.
 
