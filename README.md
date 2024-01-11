@@ -15,4 +15,4 @@ This is a basic Content Management System (CMS) implemented in PHP and MySQL. It
 
 - PHP
 - MySQL
-- [XAMPP](https://www.apachefriends.org/index.html) (This is what i used for local testing)
+- [XAMPP] (https://www.apachefriends.org/index.html) (This is what i used for local testing)
