@@ -15,13 +15,4 @@ This is a basic Content Management System (CMS) implemented in PHP and MySQL. It
 
 - PHP
 - MySQL
-
-## Usage
-
-- Visit the homepage to view existing posts.
-- Click "Create Post" to add a new post.
-- Click "Edit" on a post to modify its content.
-- Click "Delete" on a post to remove it.
-
-
-
+- [XAMPP](https://www.apachefriends.org/index.html) (This is what i used for local testing)
